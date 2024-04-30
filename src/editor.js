@@ -16,8 +16,8 @@ function getContentCSS() {
         table {width: 100% !important;}
         table td {width: inherit;}
         div > font[size='6'] {
-            line-height: 21px;
-            font-size:21px;
+            line-height: 18px;
+            font-size:18px;
         }
         b {font-weight: 600;}
         table span { font-size: 12px !important; }
